@@ -47,14 +47,6 @@ Designed and integrated APIs, database systems, and business logic.
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hariprasad2512&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hariprasad2512&layout=compact)
-
----
-
 ## 📫 Connect With Me
 
 - LinkedIn: [Hariprasad Anuganti](https://www.linkedin.com/in/hariprasad-anuganti-58441124b/)
