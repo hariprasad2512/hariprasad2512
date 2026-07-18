@@ -4,7 +4,7 @@
 
 I'm a software developer passionate about building backend systems, mobile applications, and solving real-world problems through code.
 
-- 🔭 Building applications with Java, Spring Boot, Python, and Flutter
+- 🔭 Building applications with Python,Django, React and Flutter
 - 🌱 Currently learning Microservices, System Design, Docker, and Cloud Technologies
 - 💡 Interested in Backend Development, Mobile Apps, and Web3 Technologies
 - 📚 Practicing Data Structures & Algorithms
@@ -15,7 +15,7 @@ I'm a software developer passionate about building backend systems, mobile appli
 ## 🛠️ Tech Stack
 
 ### Languages
-Java • Python • Go • Dart • SQL
+Python • C++ • Dart • SQL
 
 ### Backend Development
 Spring Boot • REST APIs • Node.JS • FastAPI • JDBC
