@@ -1,6 +1,6 @@
 # Hi there, I'm Hariprasad Anuganti 👋
 
-### Software Developer | Java | Python | Flutter
+### Software Developer
 
 I'm a software developer passionate about building backend systems, mobile applications, and solving real-world problems through code.
 
